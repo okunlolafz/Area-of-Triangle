@@ -1,4 +1,4 @@
-**Readme for Area of Triangle Program**
+## **Area of Triangle Program**
 
 **Description:**
 The "AreaOfTriangle" program, created by Okunlola Faozee Bayo, is written in Fortran. This program calculates the area of a triangle using the lengths of its sides. The side lengths are read from an external file named "Input.txt," and the results are written to "Output.txt."
